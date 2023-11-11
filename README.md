@@ -62,7 +62,7 @@ while True: # while True para ficar sempre verificando
 ```
 # Resultado
 
-![Clique aqui para ver o resultado em um vídeo!](https://youtube.com/shorts/lvzliqZ_z28)
+[Clique aqui para ver o resultado em um vídeo!](https://youtube.com/shorts/lvzliqZ_z28)
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
